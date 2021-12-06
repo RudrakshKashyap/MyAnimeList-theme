@@ -16,8 +16,7 @@ For detailed guide on how to customize your anime list and premade layouts check
 ```
 @\import "https://malscraper.azurewebsites.net/covers/anime/cweeper/presets/dataimagelinkbefore";
 @\import "https://malscraper.azurewebsites.net/covers/manga/cweeper/presets/dataimagelinkbefore";
-```![preview](https://user-images.githubusercontent.com/44721843/144909702-61d7803a-df66-46a4-978b-2bfdc59337ab.png)
-
+```
 
 ## List settings
 ![Image](./images/default_settings.png)
