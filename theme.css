@@ -2059,8 +2059,6 @@ z-index: -1 !important;
 }
 
 
-.data.volume, .data.chapter, span a[href*="&tag=!"], span a[href*="&tag=%40"], span a[href*="&tag=~"] {display: none !important;}
-
 /* favorite */
 @media entrytags-favorites {}
 a[href$="&tag=*"]
