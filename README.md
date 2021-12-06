@@ -1,5 +1,8 @@
+# MyAnimeList-theme
+Premade CSS layout for customizing the theme of your anime list at https://myanimelist.net
+
 ## Preview
-Check out my theme [here.](https://myanimelist.net/animelist/cweeper)
+Check out this theme [here.](https://myanimelist.net/animelist/cweeper)
 
 ![Image](./images/preview.png)
 
