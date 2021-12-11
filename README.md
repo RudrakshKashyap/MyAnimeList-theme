@@ -2,7 +2,7 @@
 Premade CSS layout for customizing the theme of your anime list at [MyAnimeList.net](https://myanimelist.net)
 
 ## Preview
-Check out this theme [here.](https://myanimelist.net/animelist/cweeper)
+Check out this theme [here](https://myanimelist.net/animelist/cweeper), my theme is a mix of [Mirai Remix](https://myanimelist.net/forum/?topicid=1826033) and [Madoka Grid-Style Layout](https://myanimelist.net/forum/?topicid=1928424).
 
 ![Image](./images/preview.png)
 
