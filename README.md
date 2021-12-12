@@ -27,6 +27,7 @@ For detailed guide on how to customize your anime list and premade layouts check
 ![Image](./images/cover.jpg)
 
 ## Background Image
+You can choose any image you want, here are some cool backgrounds [https://imgur.com/a/P9BFr](https://imgur.com/a/P9BFr)
 ![Image](./images/background.jpg)
 
 ## Background Image Style
